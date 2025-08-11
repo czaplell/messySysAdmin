@@ -3,7 +3,7 @@
 Scipt to list local accounts, groups, and installed software on a computer, and upload the results to SharePoint Team Site
 
 .DESCRIPTION
-Put this script 
+Put this script as correction script to intune https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/scripts and select group to check
 
 
 .EXAMPLE
